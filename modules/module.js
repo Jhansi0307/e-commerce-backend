@@ -2,7 +2,7 @@ const mongo = require("../connect");
 const bcrypt = require("bcrypt");
 const jwt = require("jsonwebtoken");
 module.exports.Home = async (req, res) => {
-  res.send("Home Page");
+  res.send("❤️Hey Buddy Welcome to Shopping ❤️🥳");
 };
 
 // REGISTER
